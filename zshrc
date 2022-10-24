@@ -1,3 +1,7 @@
+#my terminal tutorial https://medium.com/airfrance-klm/beautify-your-iterm2-and-prompt-40f148761a49
+#my zsh theme: https://github.com/jackharrisonsherlock/common
+#iterm theme: https://github.com/jordanjustice/github-dark-theme-iterm2
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
